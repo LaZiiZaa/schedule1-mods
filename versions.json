@@ -3,9 +3,9 @@
   "mods": {
     "Dealer OS": {
       "version": "1.0.1",
-      "nexus": "",
-      "fr": "",
-      "en": ""
+      "nexus": "https://www.nexusmods.com/schedule1/mods/2884",
+      "fr": "Disponible sur Nexus, en 8 langues.",
+      "en": "Now on Nexus, in 8 languages."
     },
     "StorageReach": {
       "version": "1.2.0",
