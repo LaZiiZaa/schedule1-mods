@@ -14,10 +14,10 @@
       "en": "Now on Nexus, in 8 languages."
     },
     "GrowLightColors": {
-      "version": "1.7.0",
+      "version": "1.8.0",
       "nexus": "https://www.nexusmods.com/schedule1/mods/2883",
-      "fr": "Intensité des lumières, et mode disco pour toute la partie.",
-      "en": "Light intensity, and disco mode for the whole game."
+      "fr": "Disco dans une seule propriété (ou plusieurs), en plus de la disco partout.",
+      "en": "Disco in a single property (or several), on top of the whole-map disco."
     },
     "GraffitiStencils": {
       "name": "Pochoirs (GraffitiStencils)",
