@@ -1,0 +1,30 @@
+{
+  "format": 1,
+  "mods": {
+    "Dealer OS": {
+      "version": "1.0.1",
+      "nexus": "",
+      "fr": "",
+      "en": ""
+    },
+    "StorageReach": {
+      "version": "1.1.1",
+      "nexus": "",
+      "fr": "",
+      "en": ""
+    },
+    "GrowLightColors": {
+      "version": "1.4.2",
+      "nexus": "",
+      "fr": "",
+      "en": ""
+    },
+    "GraffitiStencils": {
+      "name": "Pochoirs (GraffitiStencils)",
+      "version": "1.2.1",
+      "nexus": "",
+      "fr": "",
+      "en": ""
+    }
+  }
+}
