@@ -14,10 +14,10 @@
       "en": "Now on Nexus, in 8 languages."
     },
     "GrowLightColors": {
-      "version": "1.6.0",
+      "version": "1.7.0",
       "nexus": "https://www.nexusmods.com/schedule1/mods/2883",
-      "fr": "Mode disco pour toute la carte, et les lumières du box de stockage dans l'appli.",
-      "en": "Disco mode for the whole map, and the storage unit lights in the app."
+      "fr": "Intensité des lumières, et mode disco pour toute la partie.",
+      "en": "Light intensity, and disco mode for the whole game."
     },
     "GraffitiStencils": {
       "name": "Pochoirs (GraffitiStencils)",
