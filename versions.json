@@ -25,12 +25,6 @@
       "nexus": "https://www.nexusmods.com/schedule1/mods/2886",
       "fr": "Disponible sur Nexus, en 8 langues.",
       "en": "Now on Nexus, in 8 languages."
-    },
-    "Kingpin": {
-      "version": "0.4.1",
-      "nexus": "https://www.nexusmods.com/schedule1/mods/2892",
-      "fr": "Choix de la langue dans l'appli (bouton globe) et réglage Language dans MelonPreferences.cfg, comme les autres mods.",
-      "en": "Language picker in the app (globe button) and Language setting in MelonPreferences.cfg, like the other mods."
     }
   }
 }
