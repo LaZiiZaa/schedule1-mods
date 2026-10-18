@@ -27,10 +27,10 @@
       "en": "Now on Nexus, in 8 languages."
     },
     "Kingpin": {
-      "version": "0.4.0",
+      "version": "0.4.1",
       "nexus": "https://www.nexusmods.com/schedule1/mods/2892",
-      "fr": "Nouveau mod : gère ton empire depuis le téléphone, avec bourse, loterie et revenus passifs. En 8 langues.",
-      "en": "New mod: run your empire from your phone, with a stock market, lottery and passive income. In 8 languages."
+      "fr": "Choix de la langue dans l'appli (bouton globe) et réglage Language dans MelonPreferences.cfg, comme les autres mods.",
+      "en": "Language picker in the app (globe button) and Language setting in MelonPreferences.cfg, like the other mods."
     }
   }
 }
