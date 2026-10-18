@@ -25,6 +25,12 @@
       "nexus": "https://www.nexusmods.com/schedule1/mods/2886",
       "fr": "Disponible sur Nexus, en 8 langues.",
       "en": "Now on Nexus, in 8 languages."
+    },
+    "Kingpin": {
+      "version": "0.4.0",
+      "nexus": "https://www.nexusmods.com/schedule1/mods/2892",
+      "fr": "Nouveau mod : gère ton empire depuis le téléphone, avec bourse, loterie et revenus passifs. En 8 langues.",
+      "en": "New mod: run your empire from your phone, with a stock market, lottery and passive income. In 8 languages."
     }
   }
 }
