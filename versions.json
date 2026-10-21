@@ -2,29 +2,29 @@
   "format": 1,
   "mods": {
     "Dealer OS": {
-      "version": "1.1.0",
+      "version": "1.2.0",
       "nexus": "https://www.nexusmods.com/schedule1/mods/2884",
-      "fr": "Disponible sur Nexus, en 8 langues.",
-      "en": "Now on Nexus, in 8 languages."
+      "fr": "Couleurs en coop pour les joueurs autorisés, vue Revendeurs refaite.",
+      "en": "Colors in co-op for allowed players, Dealers view redone."
     },
     "StorageReach": {
-      "version": "1.2.0",
+      "version": "1.2.1",
       "nexus": "https://www.nexusmods.com/schedule1/mods/2882",
-      "fr": "Disponible sur Nexus, en 8 langues.",
-      "en": "Now on Nexus, in 8 languages."
+      "fr": "Plus léger : rien n'est alloué à chaque image.",
+      "en": "Lighter: nothing allocated every frame."
     },
     "GrowLightColors": {
-      "version": "1.8.0",
+      "version": "1.9.0",
       "nexus": "https://www.nexusmods.com/schedule1/mods/2883",
-      "fr": "Disco dans une seule propriété (ou plusieurs), en plus de la disco partout.",
-      "en": "Disco in a single property (or several), on top of the whole-map disco."
+      "fr": "Fini les saccades, appli compacte et repliable, joueurs autorisés.",
+      "en": "No more FPS blips, compact collapsible app, allowed players."
     },
     "GraffitiStencils": {
       "name": "Pochoirs (GraffitiStencils)",
-      "version": "1.3.0",
+      "version": "1.5.0",
       "nexus": "https://www.nexusmods.com/schedule1/mods/2886",
-      "fr": "Disponible sur Nexus, en 8 langues.",
-      "en": "Now on Nexus, in 8 languages."
+      "fr": "Tague partout, Mes créations, peinture illimitée, 76 motifs.",
+      "en": "Tag anywhere, My creations, unlimited paint, 76 designs."
     }
   }
 }
