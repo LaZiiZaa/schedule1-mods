@@ -25,6 +25,12 @@
       "nexus": "https://www.nexusmods.com/schedule1/mods/2886",
       "fr": "Tague partout, Mes créations, peinture illimitée, 76 motifs.",
       "en": "Tag anywhere, My creations, unlimited paint, 76 designs."
+    },
+    "HylandChat": {
+      "version": "1.0.0",
+      "nexus": "https://www.nexusmods.com/schedule1/mods/2938",
+      "fr": "Disponible sur Nexus : chat écrit, bulles, messages privés chiffrés, appli du téléphone, 8 langues.",
+      "en": "Now on Nexus: text chat, bubbles, encrypted private messages, phone app, 8 languages."
     }
   }
 }
