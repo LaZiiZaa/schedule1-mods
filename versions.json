@@ -2,10 +2,10 @@
   "format": 1,
   "mods": {
     "Dealer OS": {
-      "version": "1.2.1",
+      "version": "1.2.2",
       "nexus": "https://www.nexusmods.com/schedule1/mods/2884",
-      "fr": "Les plus rentables jusqu'à 8 étapes, effets impossibles grisés, traductions de XUnity.AutoTranslator.",
-      "en": "Most profitable up to 8 steps, impossible effects greyed out, XUnity.AutoTranslator translations."
+      "fr": "Un clic sur une recette partagée dans HylandChat l'ouvre dans Dealer OS.",
+      "en": "A click on a recipe shared in HylandChat opens it in Dealer OS."
     },
     "StorageReach": {
       "version": "1.2.2",
@@ -27,10 +27,10 @@
       "en": "Author info (copyright, ID in the console). No gameplay change."
     },
     "HylandChat": {
-      "version": "1.0.0",
+      "version": "1.2.0",
       "nexus": "https://www.nexusmods.com/schedule1/mods/2938",
-      "fr": "Disponible sur Nexus : chat écrit, bulles, messages privés chiffrés, appli du téléphone, 8 langues.",
-      "en": "Now on Nexus: text chat, bubbles, encrypted private messages, phone app, 8 languages."
+      "fr": "Vocal de proximité, appels, talkie-walkie, chuchoter ou crier, réactions, votes, filtre des gros mots.",
+      "en": "Proximity voice, calls, walkie-talkie, whisper or shout, reactions, votes, swear filter."
     }
   }
 }
