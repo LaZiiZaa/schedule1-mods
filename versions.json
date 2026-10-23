@@ -8,23 +8,23 @@
       "en": "Most profitable up to 8 steps, impossible effects greyed out, XUnity.AutoTranslator translations."
     },
     "StorageReach": {
-      "version": "1.2.1",
+      "version": "1.2.2",
       "nexus": "https://www.nexusmods.com/schedule1/mods/2882",
-      "fr": "Plus léger : rien n'est alloué à chaque image.",
-      "en": "Lighter: nothing allocated every frame."
+      "fr": "Informations d'auteur (copyright, identifiant dans la console). Rien ne change en jeu.",
+      "en": "Author info (copyright, ID in the console). No gameplay change."
     },
     "GrowLightColors": {
-      "version": "1.9.0",
+      "version": "1.9.1",
       "nexus": "https://www.nexusmods.com/schedule1/mods/2883",
-      "fr": "Fini les saccades, appli compacte et repliable, joueurs autorisés.",
-      "en": "No more FPS blips, compact collapsible app, allowed players."
+      "fr": "Informations d'auteur (copyright, identifiant dans la console). Rien ne change en jeu.",
+      "en": "Author info (copyright, ID in the console). No gameplay change."
     },
     "GraffitiStencils": {
       "name": "Pochoirs (GraffitiStencils)",
-      "version": "1.5.0",
+      "version": "1.5.1",
       "nexus": "https://www.nexusmods.com/schedule1/mods/2886",
-      "fr": "Tague partout, Mes créations, peinture illimitée, 76 motifs.",
-      "en": "Tag anywhere, My creations, unlimited paint, 76 designs."
+      "fr": "Informations d'auteur (copyright, identifiant dans la console). Rien ne change en jeu.",
+      "en": "Author info (copyright, ID in the console). No gameplay change."
     },
     "HylandChat": {
       "version": "1.0.0",
