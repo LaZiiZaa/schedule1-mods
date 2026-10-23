@@ -2,10 +2,10 @@
   "format": 1,
   "mods": {
     "Dealer OS": {
-      "version": "1.2.0",
+      "version": "1.2.1",
       "nexus": "https://www.nexusmods.com/schedule1/mods/2884",
-      "fr": "Couleurs en coop pour les joueurs autorisés, vue Revendeurs refaite.",
-      "en": "Colors in co-op for allowed players, Dealers view redone."
+      "fr": "Les plus rentables jusqu'à 8 étapes, effets impossibles grisés, traductions de XUnity.AutoTranslator.",
+      "en": "Most profitable up to 8 steps, impossible effects greyed out, XUnity.AutoTranslator translations."
     },
     "StorageReach": {
       "version": "1.2.1",
