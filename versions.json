@@ -2,10 +2,10 @@
   "format": 1,
   "mods": {
     "Dealer OS": {
-      "version": "1.2.2",
+      "version": "1.3.0",
       "nexus": "https://www.nexusmods.com/schedule1/mods/2884",
-      "fr": "Un clic sur une recette partagée dans HylandChat l'ouvre dans Dealer OS.",
-      "en": "A click on a recipe shared in HylandChat opens it in Dealer OS."
+      "fr": "Fais venir tes dealers : ils marchent jusqu'à toi ou à une de tes propriétés pour te donner l'argent ou prendre des produits.",
+      "en": "Call your dealers over: they walk to you or to one of your properties to hand over cash or take products."
     },
     "StorageReach": {
       "version": "1.2.2",
