@@ -8,3 +8,7 @@
 - **Italiano**: file delle versioni delle mod di Schedule I di Nocteris, letto dalle mod per segnalare gli aggiornamenti.
 - **Polski**: plik wersji modów Nocterisa do Schedule I, odczytywany przez mody, aby informować o aktualizacjach.
 - **Русский**: файл версий модов Nocteris для Schedule I, моды читают его, чтобы сообщать об обновлениях.
+
+## Discord
+
+Communauté Schedule I - FR (nouveautés des mods, aide, idées) / Schedule I - FR community (mod news, help, ideas): https://discord.gg/schedule-i-fr
